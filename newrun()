@@ -1,6 +1,6 @@
 public void run(){
-    
-
-
+    int a=0;
+    int b=3;
+    system.out(a+b);
 
 }
