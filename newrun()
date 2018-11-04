@@ -2,5 +2,7 @@ public void run(){
     int a=0;
     int b=3;
     system.out(a+b);
+    String c="hello, world";
+    system.out(c);
 
 }
